@@ -1,0 +1,78 @@
+.credit-card{
+    width: 350px;
+    background-color: #042848;
+    color:white;
+    border-radius: 10px;
+    padding:0px 10px;
+    margin-left: 25px;
+    margin-top: 29px;
+}
+.credit-card-title{
+    text-align: right;
+
+}
+.credit-cart-chip{
+    width: 60px;
+    height: 50px;
+    background-image:url("https://img.icons8.com/officel/60/000000/sim-card-chip.png");
+    margin-top: -19px;
+
+    background-repeat: no-repeat;
+
+}
+.credit-card-number{
+    color: #baaf76;
+    background-color: rgba(186, 175, 125, 0.2);
+    text-align: left;
+}
+.credit-card-valid-thru{
+    text-align:right;
+
+
+}
+.credit-card-content{
+    display: flex;
+}
+.credit-card-name{
+text-align: left;
+margin-top: -17px;
+
+}
+.credit-card-logo{
+width: 100px;
+
+}
+.credit-card-logo img{
+    width: 100%;
+    margin-top: 83px;
+
+   
+}
+.credit-card-text{
+    flex: 1;
+}
+.input
+{
+    /* margin-top: -249px; */
+   display: flex;
+   
+
+}
+label{
+    margin-left: 50px;
+    margin-top: 59px;
+    font-weight: bold;
+}
+.carre{
+    border:1px solid black;
+    margin-right: 960px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+ input{
+    display: flex;
+   margin-left: 45px;
+   margin-bottom: 39px;
+   
+}
